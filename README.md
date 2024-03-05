@@ -1,42 +1,31 @@
-# Boutique
-Boutique 2024 MEESE Romain
-
-# Description
-
-Une brève description du projet, expliquant son objectif principal et ses fonctionnalités principales.
-
 # Installation
 
-Instructions sur la manière d'installer le projet et de le configurer. Inclure les dépendances et les étapes spécifiques nécessaires à l'installation.
+[nom] est une plateforme de commerce électronique dédiée à fournir aux voyageurs une sélection soigneusement choisie d'essentiels de voyage et d'accessoires. Que vous partiez pour une escapade de week-end ou une aventure mondiale, nous visons à être votre destination unique pour tous vos besoins en voyage.
+
+# Fonctionnalités
+
+ - Sélection Curatée : Notre équipe sélectionne soigneusement chaque produit pour garantir qualité, fonctionnalité et style, répondant aux besoins des voyageurs modernes.
+  - Large Gamme de Produits : Des bagages et sacs à dos aux accessoires de voyage et gadgets, nous offrons une gamme diversifiée de produits pour améliorer votre expérience de voyage.
+ - Paiement Sécurisé : Nous accordons la priorité à la sécurité de vos informations personnelles et de paiement, en offrant un processus de paiement sécurisé et crypté.
+ - Support Client Réactif : Notre équipe de support client dédiée est disponible pour vous aider avec toutes les questions ou problèmes que vous pourriez rencontrer tout au long de votre expérience d'achat.
+ - Livraison Internationale : Nous expédions nos produits à l'international, permettant aux voyageurs du monde entier d'accéder à notre sélection soigneusement choisie d'essentiels de voyage.
 
 # Utilisation
 
-Des instructions détaillées sur la façon d'utiliser le projet une fois qu'il est installé. Cela peut inclure des exemples de commandes, des cas d'utilisation typiques, etc.
+Pour explorer notre sélection de produits et commencer à faire des achats, il vous suffit de visiter notre site web à l'adresse [adresse]. À partir de là, vous pouvez parcourir nos catégories, ajouter des articles à votre panier et passer à la caisse.
 
 # Contribution
 
-Des directives pour ceux qui souhaitent contribuer au projet. Cela peut inclure des informations sur la manière de soumettre des problèmes, des demandes de fonctionnalités ou des pull requests, ainsi que des lignes directrices de codage et d'autres informations pertinentes.
+Nous cherchons toujours à améliorer et à élargir notre offre de produits. Si vous avez des suggestions de nouveaux produits ou de fonctionnalités que vous aimeriez voir sur [nom], n'hésitez pas à nous contacter à romain.meese@hotmail.fr .
+
+# Retours
+
+Vos retours sont précieux pour nous alors que nous nous efforçons d'améliorer votre expérience d'achat. Si vous rencontrez des problèmes ou si vous avez des commentaires à partager, veuillez nous envoyer un e-mail à feedback@wanderlustemporium.com.
 
 # Licence
 
-Une mention de la licence sous laquelle le projet est publié. Cela peut inclure un lien vers le texte intégral de la licence.
-
-# Crédits
-
-Un espace pour remercier et attribuer toute contribution externe ou tout code tiers utilisé dans le projet.
-
-# Contact
-
-Des informations de contact pour les développeurs du projet, telles qu'une adresse e-mail ou des liens vers les profils sur les réseaux sociaux ou les plateformes de développement.
+[nom] est sous licence MIT License [lien: https://fr.wikipedia.org/wiki/Licence_MIT].
 
 # Statut du Projet
 
-Une indication de l'état actuel du projet, par exemple s'il est en développement actif, en maintenance, abandonné, etc.
-
-# Remarques supplémentaires
-
-Toute autre information pertinente que vous souhaitez inclure, comme des avertissements, des conseils d'utilisation, des exemples de code, etc.
-
----
-
-Assurez-vous d'adapter ces sections en fonction des besoins spécifiques de votre projet et d'inclure toutes les informations importantes nécessaires pour que les utilisateurs comprennent rapidement ce qu'est votre projet, comment l'installer et l'utiliser, ainsi que toute information supplémentaire pertinente.
+Il s'agit d'un projet fictif en total construction (mars 2024).
