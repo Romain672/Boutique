@@ -4,11 +4,11 @@
 
 # Fonctionnalités
 
- - Sélection Curatée : Notre équipe sélectionne soigneusement chaque produit pour garantir qualité, fonctionnalité et style, répondant aux besoins des voyageurs modernes.
-  - Large Gamme de Produits : Des bagages et sacs à dos aux accessoires de voyage et gadgets, nous offrons une gamme diversifiée de produits pour améliorer votre expérience de voyage.
- - Paiement Sécurisé : Nous accordons la priorité à la sécurité de vos informations personnelles et de paiement, en offrant un processus de paiement sécurisé et crypté.
- - Support Client Réactif : Notre équipe de support client dédiée est disponible pour vous aider avec toutes les questions ou problèmes que vous pourriez rencontrer tout au long de votre expérience d'achat.
- - Livraison Internationale : Nous expédions nos produits à l'international, permettant aux voyageurs du monde entier d'accéder à notre sélection soigneusement choisie d'essentiels de voyage.
+- Sélection Curatée : Notre équipe sélectionne soigneusement chaque produit pour garantir qualité, fonctionnalité et style, répondant aux besoins des voyageurs modernes.
+- Large Gamme de Produits : Des bagages et sacs à dos aux accessoires de voyage et gadgets, nous offrons une gamme diversifiée de produits pour améliorer votre expérience de voyage.
+- Paiement Sécurisé : Nous accordons la priorité à la sécurité de vos informations personnelles et de paiement, en offrant un processus de paiement sécurisé et crypté.
+- Support Client Réactif : Notre équipe de support client dédiée est disponible pour vous aider avec toutes les questions ou problèmes que vous pourriez rencontrer tout au long de votre expérience d'achat.
+- Livraison Internationale : Nous expédions nos produits à l'international, permettant aux voyageurs du monde entier d'accéder à notre sélection soigneusement choisie d'essentiels de voyage.
 
 # Utilisation
 
@@ -20,7 +20,7 @@ Nous cherchons toujours à améliorer et à élargir notre offre de produits. Si
 
 # Retours
 
-Vos retours sont précieux pour nous alors que nous nous efforçons d'améliorer votre expérience d'achat. Si vous rencontrez des problèmes ou si vous avez des commentaires à partager, veuillez nous envoyer un e-mail à feedback@wanderlustemporium.com.
+Vos retours sont précieux pour nous alors que nous nous efforçons d'améliorer votre expérience d'achat. Si vous rencontrez des problèmes ou si vous avez des commentaires à partager, veuillez nous envoyer un e-mail à romain.meese@hotmail.fr
 
 # Licence
 
