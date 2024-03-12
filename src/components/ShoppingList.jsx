@@ -1,23 +1,8 @@
-
-/*import { plantList } from '../datas/plantList';
-
-
-function ShoppingList() {
-    return (
-        <ul>
-            {plantList.map((plant) => (
-                <li key={plant.id}>
-                    { plant.name}
-                    { plant.isBestSale && <span>🔥</span>}
-                </li>
-            ))}
-        </ul>
-    )
-}
-export default ShoppingList*/
-
 import { plantList } from '../datas/plantList'
+import CareScale from './CareScale'
 import '../styles/ShoppingList.css'
+import PlantItem from './PlantItem'
+
 
 function ShoppingList() {
 	const categories = plantList.reduce(
@@ -25,6 +10,7 @@ function ShoppingList() {
 			acc.includes(plant.category) ? acc : acc.concat(plant.category),
 		[]
 	)
+
 
 	return (
 		<div>
@@ -36,23 +22,19 @@ function ShoppingList() {
 			<ul className='lmj-plant-list'>
 				{plantList.map((plant) => (
 					<li key={plant.id} className='lmj-plant-item'>
-						{plant.name}
-                        {plant.isSpecialOffer ? <span className="lmj-sales">Soldes</span> : null}
+						{plant.isBestSale && <span>🔥</span>} {plant.name}
+						<CareScale careType='water' scaleValue={plant.water} />
+						<CareScale careType='light' scaleValue={plant.light} />
+						
+						<PlantItem id={plant.id} name={plant.name} cover={plant.category} light={plant.light} water={plant.water} />
 					</li>
+
 				))}
 			</ul>
 		</div>
 	)
 }
 
+
+
 export default ShoppingList
-
-
-
-
-
-
-
-
-
-
