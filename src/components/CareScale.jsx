@@ -6,11 +6,16 @@ function CareScale({ scaleValue, careType }) {
 		<div>
 			{range.map((rangeElem) =>
 				scaleValue >= rangeElem ? (
-					<span key={rangeElem.toString()}>{scaleType}</span>
+					<span key={rangeElem.toString()} onClick={fautIlArroser}>{scaleType}</span>
 				) : null
 			)}
 		</div>
 	)
 }
 
+function fautIlArroser (event) {
+	console.log(event.target)
+
+	return alert ('aaa')
+}
 export default CareScale

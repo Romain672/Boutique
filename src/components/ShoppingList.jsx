@@ -11,7 +11,6 @@ function ShoppingList() {
 		[]
 	)
 
-
 	return (
 		<div>
 			<ul>
